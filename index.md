@@ -5,9 +5,12 @@ My project is to make a ball tracking robot using raspberry pi.
 |:--:|:--:|:--:|:--:|
 | Eddie Zhang | Bellarmine College Preparatory | Computer Science | Incoming Senior
 
+
 ![Pi Logo](https://techround.co.uk/wp-content/uploads/2020/04/Pi-logo.jpeg)
-  
-  
+![WIN_20220812_14_18_48_Pro](https://user-images.githubusercontent.com/110259175/184446447-ab8a2e02-41f6-404d-9b05-40838dba6b33.jpg)
+![Eddie Zhang](https://user-images.githubusercontent.com/110259175/184446170-d09290e3-1f0a-42bd-9667-532baccd3634.jpeg)
+
+ 
 # Demo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Z7c9krNHOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
