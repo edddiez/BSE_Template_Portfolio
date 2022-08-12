@@ -10,16 +10,16 @@ My project is to make a ball tracking robot using raspberry pi.
 ![WIN_20220812_14_18_48_Pro](https://user-images.githubusercontent.com/110259175/184446447-ab8a2e02-41f6-404d-9b05-40838dba6b33.jpg)
 ![Eddie Zhang](https://user-images.githubusercontent.com/110259175/184446170-d09290e3-1f0a-42bd-9667-532baccd3634.jpeg)
 
-# Materials
- -Raspberry Pi 4
- -Pi Camera
- -Ultrasonic sensor
- -Model car frame
- -Model car wheels
- -Portable charger
- -Model car motors
- -H bridge
- -Dupont Wires
+# Materials:
+- Raspberry Pi 4
+- Pi Camera
+- Ultrasonic sensor
+- Model car frame
+- Model car wheels
+- Portable charger
+- Model car motors
+- H bridge
+- Dupont Wires
 
 
 
