@@ -12,9 +12,12 @@ My project is to make a ball tracking robot using raspberry pi.
 
  
 # Demo
+For my demo, I ran the script mainbot.py from Putty and moved the Raspberry Pi box around while the car tracked it. As seen in the video, the car uses the ultrasonic sensors to adjust its distance from the box and turns slowly in order to scan the images taken by the Pi Camera to locate the box.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Z7c9krNHOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 {:target="_blank" rel="noopener"}
+  
   
 # Final Milestone
 My final milestone is coding the Pi Camera and the ultrasonic sensor to detect a large red object. The Pi Camera finds red in an image and the ultrasonic sensor senses the distance between the car and the red object. To test, I used the red Raspberry Pi box. In order for the car to be able drive anywhere, I had to use a portable charger to power it. A problem was the weight distribution of the car. Since the portable charger was very heavy, it would cause the car to tip backwards. I solved this by taping the portable charger up further to the front of the car and moving the Raspberry Pi higher. 
